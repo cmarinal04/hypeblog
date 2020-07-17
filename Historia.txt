@@ -1,0 +1,18 @@
+mi primer archivo en git y estoy haciendo un cambio
+
+linea nueva
+
+dos lineas nuevas
+
+
+este ajuste es nuevo para volver a la versión anterior
+
+
+un ajuste nuevamente, pero no se borra los viejos
+
+
+un juevo ajuste
+
+nuevos ajustes
+
+
